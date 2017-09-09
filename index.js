@@ -1,3 +1,4 @@
 function add(a,b){
-  return `${a}+${b}`
+ var x = ${a}+${b}
+  return `x`
 }
