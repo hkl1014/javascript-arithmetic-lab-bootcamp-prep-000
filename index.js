@@ -1,4 +1,4 @@
 function add(a,b){
 
-  return parseInt(`${a}`)
+  return parseInt(`${a}`)+b
 }
